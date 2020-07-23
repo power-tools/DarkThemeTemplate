@@ -1,0 +1,257 @@
+{
+  "Values": [
+    {
+      "Name": "App",
+      "PublishOrderIndex": 0,
+      "ControlUniqueId": "1"
+    },
+    {
+      "Name": "Gallery",
+      "PublishOrderIndex": 0,
+      "ControlUniqueId": "53"
+    },
+    {
+      "Name": "Gallery\r\nGallery1",
+      "ZIndex": "1",
+      "PublishOrderIndex": 31,
+      "ControlUniqueId": "64"
+    },
+    {
+      "Name": "Gallery\r\nGallery1\r\nBody1",
+      "ZIndex": "5",
+      "PublishOrderIndex": 37,
+      "ControlUniqueId": "69"
+    },
+    {
+      "Name": "Gallery\r\nGallery1\r\nButton2",
+      "ZIndex": "1",
+      "PublishOrderIndex": 33,
+      "ControlUniqueId": "74"
+    },
+    {
+      "Name": "Gallery\r\nGallery1\r\ngalleryTemplate1",
+      "PublishOrderIndex": 32,
+      "ControlUniqueId": "65"
+    },
+    {
+      "Name": "Gallery\r\nGallery1\r\nImage1",
+      "ZIndex": "4",
+      "PublishOrderIndex": 36,
+      "ControlUniqueId": "68"
+    },
+    {
+      "Name": "Gallery\r\nGallery1\r\nProfileImage1",
+      "ZIndex": "2",
+      "PublishOrderIndex": 34,
+      "ControlUniqueId": "66"
+    },
+    {
+      "Name": "Gallery\r\nGallery1\r\nRectangle4",
+      "ZIndex": "6",
+      "PublishOrderIndex": 38,
+      "ControlUniqueId": "75"
+    },
+    {
+      "Name": "Gallery\r\nGallery1\r\nTitle1",
+      "ZIndex": "3",
+      "PublishOrderIndex": 35,
+      "ControlUniqueId": "67"
+    },
+    {
+      "Name": "Gallery\r\nIcon1_1",
+      "ZIndex": "2",
+      "PublishOrderIndex": 30,
+      "ControlUniqueId": "76"
+    },
+    {
+      "Name": "Home",
+      "PublishOrderIndex": 0,
+      "ControlUniqueId": "3"
+    },
+    {
+      "Name": "Home\r\nContainer1_1",
+      "ZIndex": "10",
+      "PublishOrderIndex": 10,
+      "ControlUniqueId": "12"
+    },
+    {
+      "Name": "Home\r\nContainer1_1\r\nRectangle1_7",
+      "ZIndex": "1",
+      "PublishOrderIndex": 11,
+      "ControlUniqueId": "13"
+    },
+    {
+      "Name": "Home\r\nContainer1_1\r\nRectangle1_8",
+      "ZIndex": "2",
+      "PublishOrderIndex": 12,
+      "ControlUniqueId": "14"
+    },
+    {
+      "Name": "Home\r\nContainer1_2",
+      "ZIndex": "11",
+      "PublishOrderIndex": 15,
+      "ControlUniqueId": "18"
+    },
+    {
+      "Name": "Home\r\nContainer1_2\r\nRectangle1_10",
+      "ZIndex": "2",
+      "PublishOrderIndex": 17,
+      "ControlUniqueId": "20"
+    },
+    {
+      "Name": "Home\r\nContainer1_2\r\nRectangle1_9",
+      "ZIndex": "1",
+      "PublishOrderIndex": 16,
+      "ControlUniqueId": "19"
+    },
+    {
+      "Name": "Home\r\nElevatedSurface",
+      "ZIndex": "1",
+      "PublishOrderIndex": 4,
+      "ControlUniqueId": "6"
+    },
+    {
+      "Name": "Home\r\nImage2",
+      "ZIndex": "21",
+      "PublishOrderIndex": 2,
+      "ControlUniqueId": "77"
+    },
+    {
+      "Name": "Home\r\nLabel1",
+      "ZIndex": "14",
+      "PublishOrderIndex": 5,
+      "ControlUniqueId": "7"
+    },
+    {
+      "Name": "Home\r\nLabel1_1",
+      "ZIndex": "15",
+      "PublishOrderIndex": 7,
+      "ControlUniqueId": "9"
+    },
+    {
+      "Name": "Home\r\nLabel1_2",
+      "ZIndex": "16",
+      "PublishOrderIndex": 9,
+      "ControlUniqueId": "11"
+    },
+    {
+      "Name": "Home\r\nLabel1_3",
+      "ZIndex": "17",
+      "PublishOrderIndex": 13,
+      "ControlUniqueId": "15"
+    },
+    {
+      "Name": "Home\r\nLabel1_4",
+      "ZIndex": "18",
+      "PublishOrderIndex": 19,
+      "ControlUniqueId": "21"
+    },
+    {
+      "Name": "Home\r\nLabel1_5",
+      "ZIndex": "19",
+      "PublishOrderIndex": 18,
+      "ControlUniqueId": "17"
+    },
+    {
+      "Name": "Home\r\nLabel2",
+      "ZIndex": "20",
+      "PublishOrderIndex": 3,
+      "ControlUniqueId": "42"
+    },
+    {
+      "Name": "Home\r\nRectangle1_11",
+      "ZIndex": "12",
+      "PublishOrderIndex": 8,
+      "ControlUniqueId": "10"
+    },
+    {
+      "Name": "Home\r\nRectangle1_12",
+      "ZIndex": "13",
+      "PublishOrderIndex": 14,
+      "ControlUniqueId": "16"
+    },
+    {
+      "Name": "Home\r\nRectangle1_5",
+      "ZIndex": "7",
+      "PublishOrderIndex": 1,
+      "ControlUniqueId": "5"
+    },
+    {
+      "Name": "Home\r\nRectangle1_6",
+      "ZIndex": "8",
+      "PublishOrderIndex": 6,
+      "ControlUniqueId": "8"
+    },
+    {
+      "Name": "Home\r\nRectangle2",
+      "ZIndex": "6",
+      "PublishOrderIndex": 0,
+      "ControlUniqueId": "4"
+    },
+    {
+      "Name": "Inputs",
+      "PublishOrderIndex": 0,
+      "ControlUniqueId": "22"
+    },
+    {
+      "Name": "Inputs\r\nButton1",
+      "ZIndex": "1",
+      "PublishOrderIndex": 21,
+      "ControlUniqueId": "41"
+    },
+    {
+      "Name": "Inputs\r\nCheckbox1",
+      "ZIndex": "4",
+      "PublishOrderIndex": 26,
+      "ControlUniqueId": "46"
+    },
+    {
+      "Name": "Inputs\r\nDropdown1",
+      "ZIndex": "3",
+      "PublishOrderIndex": 24,
+      "ControlUniqueId": "45"
+    },
+    {
+      "Name": "Inputs\r\nIcon1",
+      "ZIndex": "10",
+      "PublishOrderIndex": 20,
+      "ControlUniqueId": "52"
+    },
+    {
+      "Name": "Inputs\r\nRadio1",
+      "ZIndex": "6",
+      "PublishOrderIndex": 25,
+      "ControlUniqueId": "48"
+    },
+    {
+      "Name": "Inputs\r\nRating1",
+      "ZIndex": "9",
+      "PublishOrderIndex": 29,
+      "ControlUniqueId": "51"
+    },
+    {
+      "Name": "Inputs\r\nRectangle1",
+      "ZIndex": "5",
+      "PublishOrderIndex": 23,
+      "ControlUniqueId": "47"
+    },
+    {
+      "Name": "Inputs\r\nSlider1",
+      "ZIndex": "8",
+      "PublishOrderIndex": 28,
+      "ControlUniqueId": "50"
+    },
+    {
+      "Name": "Inputs\r\nTextInput1",
+      "ZIndex": "2",
+      "PublishOrderIndex": 22,
+      "ControlUniqueId": "43"
+    },
+    {
+      "Name": "Inputs\r\nToggle1",
+      "ZIndex": "7",
+      "PublishOrderIndex": 27,
+      "ControlUniqueId": "49"
+    }
+  ]
+}

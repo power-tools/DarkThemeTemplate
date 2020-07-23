@@ -1,0 +1,1 @@
+.\canvasapppackager /a:unpack /z:"../dist/DarkThemeTemplate.zip" /f:"../src"

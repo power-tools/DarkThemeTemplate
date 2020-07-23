@@ -1,0 +1,72 @@
+//// Unformatted: {"schemaVersion":"1.0","appDefinitionTemplate":{"id":"/providers/Microsoft.PowerApps/apps/","type":"Microsoft.PowerApps/apps","tags":{"primaryDeviceWidth":"640","primaryDeviceHeight":"1136","sienaVersion":"20200707T150510Z-3.20053.26.0","deviceCapabilities":"","supportsPortrait":"true","supportsLandscape":"false","primaryFormFactor":"Phone","publisherVersion":"3.20053.26","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false"},"properties":{"appVersion":"2020-07-07T15:05:10Z","lifeCycleId":"Published","createdByClientVersion":{"major":3,"minor":20053,"build":26,"revision":0,"majorRevision":0,"minorRevision":0},"minClientVersion":{"major":3,"minor":20053,"build":26,"revision":0,"majorRevision":0,"minorRevision":0},"backgroundColor":"rgba(76, 74, 72, 1)","backgroundImageUri":"/15731539394271237266/Nc2ae04fd-0946-432c-a692-55c9705ab752-logoSmallFile","displayName":"Dark Theme Experiments","description":"","commitMessage":"","appUris":{"documentUri":{"value":"/15731539394271237266/Nbb7373e0-dfbe-46c7-9e2b-5d921c1c7519-document.msapp","readonlyValue":"/15731539394271237266/Nbb7373e0-dfbe-46c7-9e2b-5d921c1c7519-document.msapp"},"imageUris":[]},"createdTime":"0001-01-01T00:00:00Z","lastModifiedTime":"0001-01-01T00:00:00Z","sharedGroupsCount":0,"sharedUsersCount":0,"icons":{"smallIconUri":"/15731539394271237266/N7eec4016-85f3-4661-9daf-b5c004159912-small.png","mediumIconUri":"/15731539394271237266/N1ba7fd5e-7c8a-4ecd-866c-c2b1e615a344-medium.png","largeIconUri":"/15731539394271237266/Nb9dc27bf-61cf-4321-b467-7e20f1955684-large.png","wideIconUri":"/15731539394271237266/Nf76c1c4b-dcbe-4ab4-94f4-65b674d7a5da-wide.png"},"connectionReferences":{},"databaseReferences":{},"almMode":"Environment","performanceOptimizationEnabled":true,"canConsumeAppPass":true},"isAppComponentLibrary":false,"appType":"ClassicCanvasApp","appComponents":[]}}
+{
+  "schemaVersion": "1.0",
+  "appDefinitionTemplate": {
+    "id": "/providers/Microsoft.PowerApps/apps/",
+    "type": "Microsoft.PowerApps/apps",
+    "tags": {
+      "primaryDeviceWidth": "640",
+      "primaryDeviceHeight": "1136",
+      "sienaVersion": "20200707T150510Z-3.20053.26.0",
+      "deviceCapabilities": "",
+      "supportsPortrait": "true",
+      "supportsLandscape": "false",
+      "primaryFormFactor": "Phone",
+      "publisherVersion": "3.20053.26",
+      "minimumRequiredApiVersion": "2.2.0",
+      "hasComponent": "false",
+      "hasUnlockedComponent": "false",
+      "isUnifiedRootApp": "false"
+    },
+    "properties": {
+      "appVersion": "2020-07-07T15:05:10Z",
+      "lifeCycleId": "Published",
+      "createdByClientVersion": {
+        "major": 3,
+        "minor": 20053,
+        "build": 26,
+        "revision": 0,
+        "majorRevision": 0,
+        "minorRevision": 0
+      },
+      "minClientVersion": {
+        "major": 3,
+        "minor": 20053,
+        "build": 26,
+        "revision": 0,
+        "majorRevision": 0,
+        "minorRevision": 0
+      },
+      "backgroundColor": "rgba(76, 74, 72, 1)",
+      "backgroundImageUri": "/15731539394271237266/Nc2ae04fd-0946-432c-a692-55c9705ab752-logoSmallFile",
+      "displayName": "Dark Theme Experiments",
+      "description": "",
+      "commitMessage": "",
+      "appUris": {
+        "documentUri": {
+          "value": "/15731539394271237266/Nbb7373e0-dfbe-46c7-9e2b-5d921c1c7519-document.msapp",
+          "readonlyValue": "/15731539394271237266/Nbb7373e0-dfbe-46c7-9e2b-5d921c1c7519-document.msapp"
+        },
+        "imageUris": []
+      },
+      "createdTime": "0001-01-01T00:00:00Z",
+      "lastModifiedTime": "0001-01-01T00:00:00Z",
+      "sharedGroupsCount": 0,
+      "sharedUsersCount": 0,
+      "icons": {
+        "smallIconUri": "/15731539394271237266/N7eec4016-85f3-4661-9daf-b5c004159912-small.png",
+        "mediumIconUri": "/15731539394271237266/N1ba7fd5e-7c8a-4ecd-866c-c2b1e615a344-medium.png",
+        "largeIconUri": "/15731539394271237266/Nb9dc27bf-61cf-4321-b467-7e20f1955684-large.png",
+        "wideIconUri": "/15731539394271237266/Nf76c1c4b-dcbe-4ab4-94f4-65b674d7a5da-wide.png"
+      },
+      "connectionReferences": {},
+      "databaseReferences": {},
+      "almMode": "Environment",
+      "performanceOptimizationEnabled": true,
+      "canConsumeAppPass": true
+    },
+    "isAppComponentLibrary": false,
+    "appType": "ClassicCanvasApp",
+    "appComponents": []
+  }
+}
